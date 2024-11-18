@@ -1,0 +1,2 @@
+# Spotify API stuff
+spotipy==2.23.0
